@@ -1,0 +1,552 @@
+[
+  {
+    "sr_no": 1,
+    "name": " Kumar Kunal",
+    "constituency": "Madhuban "
+  },
+  {
+    "sr_no": 2,
+    "name": " Rani Devi",
+    "constituency": "Sitamarhi "
+  },
+  {
+    "sr_no": 3,
+    "name": " Asha Singh",
+    "constituency": "Khajauli "
+  },
+  {
+    "sr_no": 4,
+    "name": " Gorishankar",
+    "constituency": "Phulparas "
+  },
+  {
+    "sr_no": 5,
+    "name": " Brij Bhusan (Navin)",
+    "constituency": "Supaul "
+  },
+  {
+    "sr_no": 6,
+    "name": " Md. Muntajir Alam",
+    "constituency": "Amour "
+  },
+  {
+    "sr_no": 7,
+    "name": " Pritam Kumar",
+    "constituency": "Pirpainti "
+  },
+  {
+    "sr_no": 8,
+    "name": " Sharawan Ghuia",
+    "constituency": "Kutumba "
+  },
+  {
+    "sr_no": 9,
+    "name": " Schittanand Shyam",
+    "constituency": "Gurua "
+  },
+  {
+    "sr_no": 10,
+    "name": " Anil Kumar",
+    "constituency": "Gaya Town "
+  },
+  {
+    "sr_no": 11,
+    "name": " Rahul Rana",
+    "constituency": "Sikandra "
+  },
+  {
+    "sr_no": 12,
+    "name": " Ramashish Yadav",
+    "constituency": "Jamui "
+  },
+  {
+    "sr_no": 13,
+    "name": "Rajiv Verma",
+    "constituency": "Narkatiaganj"
+  },
+  {
+    "sr_no": 14,
+    "name": "Shesnath Choudhary",
+    "constituency": "Bagaha"
+  },
+  {
+    "sr_no": 15,
+    "name": "Aurangjeb Alam",
+    "constituency": "Sikta"
+  },
+  {
+    "sr_no": 16,
+    "name": "Ram Adhar Rai",
+    "constituency": "Kesaria"
+  },
+  {
+    "sr_no": 17,
+    "name": "Vipul Yadav",
+    "constituency": "Pipra"
+  },
+  {
+    "sr_no": 18,
+    "name": "Om Prakash Yadav",
+    "constituency": "Chiraiya"
+  },
+  {
+    "sr_no": 19,
+    "name": "Madhusudhan Khushwaha",
+    "constituency": "Dhaka"
+  },
+  {
+    "sr_no": 20,
+    "name": "Anish Jha",
+    "constituency": "Sheohar"
+  },
+  {
+    "sr_no": 21,
+    "name": "Rishi Kumar Aggarwal",
+    "constituency": "Sursand"
+  },
+  {
+    "sr_no": 22,
+    "name": "Randhir Kumar Choudhary",
+    "constituency": "Bajpatti"
+  },
+  {
+    "sr_no": 23,
+    "name": "Arvind Kumar Mishra",
+    "constituency": "Bisfi"
+  },
+  {
+    "sr_no": 24,
+    "name": "Chandan Kumar",
+    "constituency": "Nirmali"
+  },
+  {
+    "sr_no": 25,
+    "name": "Vinod Kumar Mandal",
+    "constituency": "Chhatapur"
+  },
+  {
+    "sr_no": 26,
+    "name": "Dinesh Kumar Arya",
+    "constituency": "Sikit"
+  },
+  {
+    "sr_no": 27,
+    "name": "Masum Raza",
+    "constituency": "Bahadunganj"
+  },
+  {
+    "sr_no": 28,
+    "name": "Vikash Kumar",
+    "constituency": "Rupauli"
+  },
+  {
+    "sr_no": 29,
+    "name": "Aditya Lal",
+    "constituency": "Purnia"
+  },
+  {
+    "sr_no": 30,
+    "name": "Rajesh Gurnani",
+    "constituency": "Kathar"
+  },
+  {
+    "sr_no": 31,
+    "name": "Mukesh Kumar",
+    "constituency": "Madhepura"
+  },
+  {
+    "sr_no": 32,
+    "name": "Shivam Shankar Gupta",
+    "constituency": "Aurai"
+  },
+  {
+    "sr_no": 33,
+    "name": "Md. Hasan",
+    "constituency": "Muzaffarpur"
+  },
+  {
+    "sr_no": 34,
+    "name": "Dr. Abhay Kumar (SC)",
+    "constituency": "Bochaha "
+  },
+  {
+    "sr_no": 35,
+    "name": "Dr. Satendra Kumar Patel",
+    "constituency": "Barauli"
+  },
+  {
+    "sr_no": 36,
+    "name": "Dr. Bru Kishore Gupta",
+    "constituency": "Gopalganj"
+  },
+  {
+    "sr_no": 37,
+    "name": "Dharmender Kumar (SC)",
+    "constituency": "Bhorey"
+  },
+  {
+    "sr_no": 38,
+    "name": "Inderjeet Jyotikar",
+    "constituency": "Hathua"
+  },
+  {
+    "sr_no": 39,
+    "name": "Saterndra Kumar Khushwaha",
+    "constituency": "Siwan"
+  },
+  {
+    "sr_no": 40,
+    "name": "Vinod Kumar Singh",
+    "constituency": "Ziradei"
+  },
+  {
+    "sr_no": 41,
+    "name": "Dr. Jitender Kumar Yadav",
+    "constituency": "Barharia"
+  },
+  {
+    "sr_no": 42,
+    "name": "Sushil Kumar Yadav",
+    "constituency": "Marhaura"
+  },
+  {
+    "sr_no": 43,
+    "name": "Prem Prapt Singh",
+    "constituency": "Chapra"
+  },
+  {
+    "sr_no": 44,
+    "name": "Sadan Kumar",
+    "constituency": "Garkha"
+  },
+  {
+    "sr_no": 45,
+    "name": "Pawan Tiwari",
+    "constituency": "Parsa"
+  },
+  {
+    "sr_no": 46,
+    "name": "Rajendra Prasad Singh",
+    "constituency": "Lalganj"
+  },
+  {
+    "sr_no": 47,
+    "name": "Umesh Rai",
+    "constituency": "Mohiuddinnagar"
+  },
+  {
+    "sr_no": 48,
+    "name": "Manmohan Madhukar",
+    "constituency": "Hasanpur"
+  },
+  {
+    "sr_no": 49,
+    "name": "Rahul Kumar Basu (SC)",
+    "constituency": "Beldaur "
+  },
+  {
+    "sr_no": 50,
+    "name": "Rajnish Kumar Chaudhary",
+    "constituency": "Banka"
+  },
+  {
+    "sr_no": 51,
+    "name": "Gopal Kumar Tanti",
+    "constituency": "Jamalpur"
+  },
+  {
+    "sr_no": 52,
+    "name": "Umesh Prasad Singh",
+    "constituency": "Sheikhpura"
+  },
+  {
+    "sr_no": 53,
+    "name": "Dharmender Kumar",
+    "constituency": "Harnaut"
+  },
+  {
+    "sr_no": 54,
+    "name": "Dr. Rajesh Kumar Ratnakar",
+    "constituency": "Mokama"
+  },
+  {
+    "sr_no": 55,
+    "name": "Bablu Kumar",
+    "constituency": "Kumhrar"
+  },
+  {
+    "sr_no": 56,
+    "name": "Dhananjay Kumar (SC)",
+    "constituency": "Chenari "
+  },
+  {
+    "sr_no": 57,
+    "name": "Umashankar Sharan",
+    "constituency": "Kurtha"
+  },
+  {
+    "sr_no": 58,
+    "name": "Goverdhan Manjhi (SC)",
+    "constituency": "Bodh Gaya "
+  },
+  {
+    "sr_no": 59,
+    "name": "Madhumala Kumari",
+    "constituency": "Belaganj"
+  },
+  {
+    "sr_no": 60,
+    "name": "Om Prakash Rai",
+    "constituency": "Baikunthpur"
+  },
+  {
+    "sr_no": 61,
+    "name": "Shashi Bhusan Tiwari",
+    "constituency": "Lauriya"
+  },
+  {
+    "sr_no": 62,
+    "name": "Arjun Kumar Sinha",
+    "constituency": "Bettiah"
+  },
+  {
+    "sr_no": 63,
+    "name": "Gaysaudin Samaini",
+    "constituency": "Sugauli"
+  },
+  {
+    "sr_no": 64,
+    "name": "Ishwar Chand Tripathi",
+    "constituency": "Narkatia"
+  },
+  {
+    "sr_no": 65,
+    "name": "Ram Babu Das",
+    "constituency": "Kalyanpur"
+  },
+  {
+    "sr_no": 66,
+    "name": "Bhagwan Shah",
+    "constituency": "Madhuban"
+  },
+  {
+    "sr_no": 67,
+    "name": "Abhishek Kumar",
+    "constituency": "Motihari"
+  },
+  {
+    "sr_no": 68,
+    "name": "Rajni Mishra",
+    "constituency": "Madhubani"
+  },
+  {
+    "sr_no": 69,
+    "name": "Ajay Paswan (SC)",
+    "constituency": "Rajnagar "
+  },
+  {
+    "sr_no": 70,
+    "name": "Devkant Jha",
+    "constituency": "Jhanjharpur"
+  },
+  {
+    "sr_no": 71,
+    "name": "Ravi Shankar Guddu",
+    "constituency": "Pipra"
+  },
+  {
+    "sr_no": 72,
+    "name": "Abu Rehmat Ali",
+    "constituency": "Forbesganj"
+  },
+  {
+    "sr_no": 73,
+    "name": "Chandra Bhusan",
+    "constituency": "Ararta"
+  },
+  {
+    "sr_no": 74,
+    "name": "Nalinee Mandal (ST)",
+    "constituency": "Manihari "
+  },
+  {
+    "sr_no": 75,
+    "name": "Dilip Kumar",
+    "constituency": "Bihariganj"
+  },
+  {
+    "sr_no": 76,
+    "name": "Nandan Kumar (SC)",
+    "constituency": "Singheshwar "
+  },
+  {
+    "sr_no": 77,
+    "name": "Vijay Kumar Gupta",
+    "constituency": "Mahishi"
+  },
+  {
+    "sr_no": 78,
+    "name": "Rajivpal Jha",
+    "constituency": "Alinagar"
+  },
+  {
+    "sr_no": 79,
+    "name": "Ravindranath Singh",
+    "constituency": "Hayaghat"
+  },
+  {
+    "sr_no": 80,
+    "name": "Ravi Bhushan Gupta",
+    "constituency": "Gorjakothi"
+  },
+  {
+    "sr_no": 81,
+    "name": "Raj Kumar Paswan",
+    "constituency": "Haijpur"
+  },
+  {
+    "sr_no": 82,
+    "name": "Raju Kumar",
+    "constituency": "Raghopur"
+  },
+  {
+    "sr_no": 83,
+    "name": "Vipin Kumar",
+    "constituency": "Mahnar"
+  },
+  {
+    "sr_no": 84,
+    "name": "Om Prakash Das (SC)",
+    "constituency": "Patepur "
+  },
+  {
+    "sr_no": 85,
+    "name": "Upender Kumar Rai",
+    "constituency": "Warisnagar"
+  },
+  {
+    "sr_no": 86,
+    "name": "Rajan Kumar",
+    "constituency": "Samastipur"
+  },
+  {
+    "sr_no": 87,
+    "name": "Ankit Kumar Mishra",
+    "constituency": "Ujiarpur"
+  },
+  {
+    "sr_no": 88,
+    "name": "Tuntun Rai",
+    "constituency": "Morwa"
+  },
+  {
+    "sr_no": 89,
+    "name": "Arvind Kumar",
+    "constituency": "Bibhutipur"
+  },
+  {
+    "sr_no": 90,
+    "name": "Abhinas Kumar Bhatt",
+    "constituency": "Bachhwara"
+  },
+  {
+    "sr_no": 91,
+    "name": "Md. Zakir Hussain",
+    "constituency": "Amarpur"
+  },
+  {
+    "sr_no": 92,
+    "name": "Rahul Kumar Singh",
+    "constituency": "Tarapur"
+  },
+  {
+    "sr_no": 93,
+    "name": "Manoj Kumar",
+    "constituency": "Biharsharif"
+  },
+  {
+    "sr_no": 94,
+    "name": "Madhukar Vuay",
+    "constituency": "Barh"
+  },
+  {
+    "sr_no": 95,
+    "name": "Arun Thakur",
+    "constituency": "Bakhtiarpur"
+  },
+  {
+    "sr_no": 96,
+    "name": "Bablu Kumar",
+    "constituency": "Kumhrar"
+  },
+  {
+    "sr_no": 97,
+    "name": "Vikas Paswan (SC)",
+    "constituency": "Masaurhi "
+  },
+  {
+    "sr_no": 98,
+    "name": "Shiv Nath Kumar",
+    "constituency": "Paliganj"
+  },
+  {
+    "sr_no": 99,
+    "name": "Sanjay Sharma",
+    "constituency": "Tarari"
+  },
+  {
+    "sr_no": 100,
+    "name": "Ranjit Dom (SC)",
+    "constituency": "Mohania "
+  },
+  {
+    "sr_no": 101,
+    "name": "Amirudin Ansari",
+    "constituency": "Bhabua"
+  },
+  {
+    "sr_no": 102,
+    "name": "Ram Raj Vishwakarma",
+    "constituency": "Chainpur"
+  },
+  {
+    "sr_no": 103,
+    "name": "Arman Khan",
+    "constituency": "Sasaram"
+  },
+  {
+    "sr_no": 104,
+    "name": "Pramhans Tiwari",
+    "constituency": "Kargahar"
+  },
+  {
+    "sr_no": 105,
+    "name": "Baleshwas Singh",
+    "constituency": "Jehanabad"
+  },
+  {
+    "sr_no": 106,
+    "name": "Pramod Kumar",
+    "constituency": "Ghosi"
+  },
+  {
+    "sr_no": 107,
+    "name": "Manoj Kumar",
+    "constituency": "Sherghati"
+  },
+  {
+    "sr_no": 108,
+    "name": "Rishikesh Bharti (SC)",
+    "constituency": "Imamganj "
+  },
+  {
+    "sr_no": 109,
+    "name": "Aniket Raj",
+    "constituency": "Wazirganj"
+  },
+  {
+    "sr_no": 110,
+    "name": "Dr. Ranjit Kumar (SC)",
+    "constituency": "Rajauli "
+  }
+]

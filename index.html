@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bihar Assembly Election Candidates 2025</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2em; background: #f9fafb; }
+    select, table { margin-top: 1em; }
+    select { padding: 0.5em; font-size: 1em; }
+    table { border-collapse: collapse; width: 90%; background: white; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background-color: #f1f1f1; }
+    .filters { display: flex; gap: 1em; align-items: center; flex-wrap: wrap; }
+  </style>
+</head>
+<body>
+  <h2>Bihar Election Data Viewer 2025</h2>
+
+  <div class="filters">
+    <div>
+      <label for="partyDropdown">Select Party:</label><br>
+      <select id="partyDropdown">
+        <option value="">-- Select a Party --</option>
+        <option value="bjp">BJP</option>
+        <option value="congress">Congress</option>
+        <option value="aap">AAP</option>
+        <option value="jdu">JDU</option>
+		<option value="ljp">LOJPA</option>
+		<option value="rjd">RJD</option>
+		<option value="jsp">Jan Suraj Party</option>
+      </select>
+    </div>
+
+    <div>
+      <label for="constDropdown">Select Constituency:</label><br>
+      <select id="constDropdown">
+        <option value="">-- Select Constituency --</option>
+      </select>
+    </div>
+  </div>
+
+  <div id="result"></div>
+
+  <script>
+  const partyDropdown = document.getElementById('partyDropdown');
+  const constDropdown = document.getElementById('constDropdown');
+  const result = document.getElementById('result');
+
+  const allData = {};
+  const parties = ['bjp', 'congress', 'aap', 'jdu', 'ljp', 'rjd', 'jsp'];
+
+  Promise.all(parties.map(p =>
+    fetch(`data/${p}.json`)
+      .then(res => res.ok ? res.json() : [])
+      .then(candidates => {
+        // attach party to each candidate so constituency search shows party too
+        allData[p] = (candidates || []).map(c => ({ ...c, party: p }));
+      })
+  )).then(() => {
+    console.log('✅ All party data loaded');
+    populateConstituencies();
+  });
+
+  function populateConstituencies() {
+    const allCandidates = Object.values(allData).flat();
+    const constituencies = [...new Set(allCandidates.map(c => c.constituency))].sort();
+    constituencies.forEach(c => {
+      const option = document.createElement('option');
+      option.value = c;
+      option.textContent = c;
+      constDropdown.appendChild(option);
+    });
+  }
+
+  partyDropdown.addEventListener('change', () => {
+    const party = partyDropdown.value;
+    if (!party) { result.innerHTML = ''; return; }
+
+    // pass the selected party into showCandidates
+    showCandidates(allData[party], `${party.toUpperCase()} Candidates`, party);
+    constDropdown.value = '';
+  });
+
+  constDropdown.addEventListener('change', () => {
+    const constituency = constDropdown.value;
+    if (!constituency) { result.innerHTML = ''; return; }
+
+    const matches = [];
+    for (const [party, candidates] of Object.entries(allData)) {
+      candidates.forEach(c => {
+        if (String(c.constituency).toLowerCase() === constituency.toLowerCase()) {
+          matches.push(c); // c.party already set above
+        }
+      });
+    }
+
+    showCandidates(matches, `Candidates in ${constituency}`, null);
+    partyDropdown.value = '';
+  });
+
+  function showCandidates(candidates, title, selectedParty) {
+    if (!candidates || candidates.length === 0) {
+      result.innerHTML = `<p style="color:red;">No data found.</p>`;
+      return;
+    }
+
+    let html = `<h3>${title}</h3>`;
+    html += `<table>
+              <tr>
+                <th>Candidate</th>
+                <th>Party</th>
+                <th>Constituency</th>
+                <th>Age</th>
+                <th>Gender</th>
+                <th>Votes</th>
+              </tr>
+              ${candidates.map(c => `
+                <tr>
+                  <td>${c.name || '-'}</td>
+                  <td>${(c.party || selectedParty || '-').toString().toUpperCase()}</td>
+                  <td>${c.constituency || '-'}</td>
+                  <td>${c.age ?? '-'}</td>
+                  <td>${c.gender || '-'}</td>
+                  <td>${c.votes ?? '-'}</td>
+                </tr>`).join('')}
+            </table>`;
+    result.innerHTML = html;
+  }
+</script>
+
+</body>
+</html>

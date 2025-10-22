@@ -1,0 +1,507 @@
+[
+  {
+    "sr_no": 1,
+    "name": "Smt. Renu Devi",
+    "constituency": "Bettiah"
+  },
+  {
+    "sr_no": 2,
+    "name": "Shri Pramod Kumar Sinha",
+    "constituency": "Raxaul"
+  },
+  {
+    "sr_no": 3,
+    "name": "Shri Shyambabu Prasad Yadav",
+    "constituency": "Pipra"
+  },
+  {
+    "sr_no": 4,
+    "name": "Shri Rana Randhir Singh",
+    "constituency": "Madhuban"
+  },
+  {
+    "sr_no": 5,
+    "name": "Shri Pramod Kumar",
+    "constituency": "Motihari"
+  },
+  {
+    "sr_no": 6,
+    "name": "Shri Pawan Jaiswal",
+    "constituency": "Dhaka"
+  },
+  {
+    "sr_no": 7,
+    "name": "Shri Baidyanath Prasad",
+    "constituency": "Riga"
+  },
+  {
+    "sr_no": 8,
+    "name": "Shri Anil Kumar Ram (SC)",
+    "constituency": "Bathnaha "
+  },
+  {
+    "sr_no": 9,
+    "name": "Smt. Gayatri Devi",
+    "constituency": "Parihar"
+  },
+  {
+    "sr_no": 10,
+    "name": "Shri Sunil Kumar Pintu",
+    "constituency": "Sitamarhi"
+  },
+  {
+    "sr_no": 11,
+    "name": "Shri Vinod Narayan Jha",
+    "constituency": "Benipatti"
+  },
+  {
+    "sr_no": 12,
+    "name": "Shri Arun Shankar Prasad",
+    "constituency": "Khajauli"
+  },
+  {
+    "sr_no": 13,
+    "name": "Shri Haribhushan Thakur Bachaul",
+    "constituency": "Bisfi"
+  },
+  {
+    "sr_no": 14,
+    "name": "Shri Sujeet Paswan (SC)",
+    "constituency": "Rajnagar "
+  },
+  {
+    "sr_no": 15,
+    "name": "Shri Nitish Mishra",
+    "constituency": "Jhanjharpur"
+  },
+  {
+    "sr_no": 16,
+    "name": "Shri Neeraj Kumar Singh Bablu",
+    "constituency": "Chhatapur"
+  },
+  {
+    "sr_no": 17,
+    "name": "Smt. Devanti Yadav",
+    "constituency": "Narpatganj"
+  },
+  {
+    "sr_no": 18,
+    "name": "Shri Vidya Sagar Keshri",
+    "constituency": "Forbesganj"
+  },
+  {
+    "sr_no": 19,
+    "name": "Shri Vijay Kumar Mandal",
+    "constituency": "Sikti"
+  },
+  {
+    "sr_no": 20,
+    "name": "Smt. Sweety Singh",
+    "constituency": "Kishanganj"
+  },
+  {
+    "sr_no": 21,
+    "name": "Shri Krishna Kumar Rishi (SC)",
+    "constituency": "Banmankhi "
+  },
+  {
+    "sr_no": 22,
+    "name": "Shri Vijay Kumar Khemka",
+    "constituency": "Purnia"
+  },
+  {
+    "sr_no": 23,
+    "name": "Shri Tarkishore Prasad",
+    "constituency": "Katihar"
+  },
+  {
+    "sr_no": 24,
+    "name": "Smt. Nisha Singh",
+    "constituency": "Pranpur"
+  },
+  {
+    "sr_no": 25,
+    "name": "Smt. Kavita Devi (SC)",
+    "constituency": "Korha "
+  },
+  {
+    "sr_no": 26,
+    "name": "Shri Alok Ranjan Jha",
+    "constituency": "Saharsa"
+  },
+  {
+    "sr_no": 27,
+    "name": "Shri Sujit Kumar Singh",
+    "constituency": "Gaura Bauram"
+  },
+  {
+    "sr_no": 28,
+    "name": "Shri Sanjay Saraogi",
+    "constituency": "Darbhanga"
+  },
+  {
+    "sr_no": 29,
+    "name": "Shri Murari Mohan Jha",
+    "constituency": "Keoti"
+  },
+  {
+    "sr_no": 30,
+    "name": "Shri Jibesh Kumar Mishra",
+    "constituency": "Jale"
+  },
+  {
+    "sr_no": 31,
+    "name": "Smt. Rama Nishad",
+    "constituency": "Aurai"
+  },
+  {
+    "sr_no": 32,
+    "name": "Shri Kedar Prasad Gupta",
+    "constituency": "Kurhani"
+  },
+  {
+    "sr_no": 33,
+    "name": "Shri Arun Kumar Singh",
+    "constituency": "Baruraj"
+  },
+  {
+    "sr_no": 34,
+    "name": "Shri Raju Kumar Singh",
+    "constituency": "Sahebganj"
+  },
+  {
+    "sr_no": 35,
+    "name": "Shri Mithilesh Tiwari",
+    "constituency": "Baikunthpur"
+  },
+  {
+    "sr_no": 36,
+    "name": "Shri Mangal Pandey",
+    "constituency": "Siwan"
+  },
+  {
+    "sr_no": 37,
+    "name": "Shri Karnjeet Singh",
+    "constituency": "Daraundha"
+  },
+  {
+    "sr_no": 38,
+    "name": "Shri Devesh Kant Singh",
+    "constituency": "Goriyakothi"
+  },
+  {
+    "sr_no": 39,
+    "name": "Shri Janak Singh",
+    "constituency": "Taraiya"
+  },
+  {
+    "sr_no": 40,
+    "name": "Shri Krishan Kumar Mantoo",
+    "constituency": "Amnour"
+  },
+  {
+    "sr_no": 41,
+    "name": "Shri Awadhesh Singh",
+    "constituency": "Hajipur"
+  },
+  {
+    "sr_no": 42,
+    "name": "Shri Sanjay Kumar Singh",
+    "constituency": "Lalganj"
+  },
+  {
+    "sr_no": 43,
+    "name": "Shri Lakhendra Kumar Raushan (SC)",
+    "constituency": "Patepur "
+  },
+  {
+    "sr_no": 44,
+    "name": "Shri Rajesh Kumar Singh",
+    "constituency": "Mohiuddinnagar"
+  },
+  {
+    "sr_no": 45,
+    "name": "Shri Surendra Mehta",
+    "constituency": "Bachhwara"
+  },
+  {
+    "sr_no": 46,
+    "name": "Shri Rajnish Kumar",
+    "constituency": "Teghra"
+  },
+  {
+    "sr_no": 47,
+    "name": "Shri Kundan Kumar",
+    "constituency": "Begusarai"
+  },
+  {
+    "sr_no": 48,
+    "name": "Shri Rohit Pandey",
+    "constituency": "Bhagalpur"
+  },
+  {
+    "sr_no": 49,
+    "name": "Shri Ram Narayan Mandal",
+    "constituency": "Banka"
+  },
+  {
+    "sr_no": 50,
+    "name": "Shri Puran Lal Tudu (ST)",
+    "constituency": "Katoria "
+  },
+  {
+    "sr_no": 51,
+    "name": "Shri Samrat Chaudhary",
+    "constituency": "Tarapur"
+  },
+  {
+    "sr_no": 52,
+    "name": "Shri Kumar Pranay",
+    "constituency": "Munger"
+  },
+  {
+    "sr_no": 53,
+    "name": "Shri Vijay Kumar Sinha",
+    "constituency": "Lakhisarai"
+  },
+  {
+    "sr_no": 54,
+    "name": "Dr. Sunil Kumar",
+    "constituency": "Biharsharif"
+  },
+  {
+    "sr_no": 55,
+    "name": "Shri Sanjiv Chaurasia",
+    "constituency": "Digha"
+  },
+  {
+    "sr_no": 56,
+    "name": "Shri Nitin Nabin",
+    "constituency": "Bankipur"
+  },
+  {
+    "sr_no": 57,
+    "name": "Shri Sanjay Gupta",
+    "constituency": "Kumhrar"
+  },
+  {
+    "sr_no": 58,
+    "name": "Shri Ratnesh Kushwaha",
+    "constituency": "Patna Sahib"
+  },
+  {
+    "sr_no": 59,
+    "name": "Shri Ramkripal Yadav",
+    "constituency": "Danapur"
+  },
+  {
+    "sr_no": 60,
+    "name": "Shri Siddharth Saurav",
+    "constituency": "Bikram"
+  },
+  {
+    "sr_no": 61,
+    "name": "Shri Raghvendra Pratap Singh",
+    "constituency": "Barhara"
+  },
+  {
+    "sr_no": 62,
+    "name": "Shri Sanjay Singh \"Tiger\"",
+    "constituency": "Arrah"
+  },
+  {
+    "sr_no": 63,
+    "name": "Shri Vishal Prashant",
+    "constituency": "Tarari"
+  },
+  {
+    "sr_no": 64,
+    "name": "Shri Manoj Sharma",
+    "constituency": "Arwal"
+  },
+  {
+    "sr_no": 65,
+    "name": "Shri Trivikram Singh",
+    "constituency": "Aurangabad"
+  },
+  {
+    "sr_no": 66,
+    "name": "Shri Upendra Dangi",
+    "constituency": "Gurua"
+  },
+  {
+    "sr_no": 67,
+    "name": "Dr. Prem Kumar",
+    "constituency": "Gaya Town"
+  },
+  {
+    "sr_no": 68,
+    "name": "Shri Birendra Singh",
+    "constituency": "Wazirganj"
+  },
+  {
+    "sr_no": 69,
+    "name": "Shri Anil Singh",
+    "constituency": "Hisua"
+  },
+  {
+    "sr_no": 70,
+    "name": "Smt. Aruna Devi",
+    "constituency": "Warsaliganj"
+  },
+  {
+    "sr_no": 71,
+    "name": "Sushri Shreyasi Singh",
+    "constituency": "Jamui"
+  },
+  {
+    "sr_no": 72,
+    "name": "Sushri Maithili Thakur",
+    "constituency": "Alinagar "
+  },
+  {
+    "sr_no": 73,
+    "name": "Shri Ram Chandra Prasad",
+    "constituency": "Hayaghat "
+  },
+  {
+    "sr_no": 74,
+    "name": "Shri Ranjan Kumar",
+    "constituency": "Muzaffarpur "
+  },
+  {
+    "sr_no": 75,
+    "name": "Shri Subhash Singh",
+    "constituency": "Gopalganj "
+  },
+  {
+    "sr_no": 76,
+    "name": "Shri Kedar Nath Singh",
+    "constituency": "Baniapur "
+  },
+  {
+    "sr_no": 77,
+    "name": "Smt. Chhoti Kumari",
+    "constituency": "Chapra "
+  },
+  {
+    "sr_no": 78,
+    "name": "Shri Vinay Kumar Singh",
+    "constituency": "Sonepur "
+  },
+  {
+    "sr_no": 79,
+    "name": "Shri Birendra Kumar (SC)",
+    "constituency": "Rosera "
+  },
+  {
+    "sr_no": 80,
+    "name": "Dr. Siyaram Singh",
+    "constituency": "Barh "
+  },
+  {
+    "sr_no": 81,
+    "name": "Shri Mahesh Paswan (SC)",
+    "constituency": "Agiaon "
+  },
+  {
+    "sr_no": 82,
+    "name": "Shri Rakesh Ojha",
+    "constituency": "Shahpur "
+  },
+  {
+    "sr_no": 83,
+    "name": "Shri Anand Mishra, IPS",
+    "constituency": "Buxar "
+  },
+  {
+    "sr_no": 84,
+    "name": " Nand Kishor Ram (SC)",
+    "constituency": "Ramnagar "
+  },
+  {
+    "sr_no": 85,
+    "name": " Sanjay Pandey",
+    "constituency": "Narkatiaganj "
+  },
+  {
+    "sr_no": 86,
+    "name": " Ram Singh",
+    "constituency": "Bagaha "
+  },
+  {
+    "sr_no": 87,
+    "name": " Vinay Bihari",
+    "constituency": "Lauriya "
+  },
+  {
+    "sr_no": 88,
+    "name": " Narayan Prasad",
+    "constituency": "Nautan "
+  },
+  {
+    "sr_no": 89,
+    "name": " Umakant Singh",
+    "constituency": "Chanpatia "
+  },
+  {
+    "sr_no": 90,
+    "name": "Krishnandan Paswan (SC)",
+    "constituency": "Harshidhi "
+  },
+  {
+    "sr_no": 91,
+    "name": " Sachindra Prasad Singh",
+    "constituency": "Kalyanpur "
+  },
+  {
+    "sr_no": 92,
+    "name": " Lalbabu Prasad Gupta",
+    "constituency": "Chiraia "
+  },
+  {
+    "sr_no": 93,
+    "name": " Bina Devi",
+    "constituency": "Kochadhaman "
+  },
+  {
+    "sr_no": 94,
+    "name": " Vinod Yadav",
+    "constituency": "Baisi "
+  },
+  {
+    "sr_no": 95,
+    "name": " Satish Kumar Yadav",
+    "constituency": "Raghopur "
+  },
+  {
+    "sr_no": 96,
+    "name": " Kumar Shailendra",
+    "constituency": "Bihpur "
+  },
+  {
+    "sr_no": 97,
+    "name": " Murari Paswan (SC)",
+    "constituency": "Pirpainti "
+  },
+  {
+    "sr_no": 98,
+    "name": " Ashok Kumar Singh",
+    "constituency": "Ramgarh "
+  },
+  {
+    "sr_no": 99,
+    "name": " Sangeeta Kumari (SC)",
+    "constituency": "Mohania "
+  },
+  {
+    "sr_no": 100,
+    "name": " Bharat Bind",
+    "constituency": "Bhabua "
+  },
+  {
+    "sr_no": 101,
+    "name": " Ranvijay Singh",
+    "constituency": "Goh "
+  }
+]
