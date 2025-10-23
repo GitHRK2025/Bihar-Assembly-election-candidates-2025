@@ -1,6 +1,19 @@
-.xlsx
-.bat
-.py
+# Excel candidate-name files
+*.xlsx
+
+
+# bat file to start the local server
+*.bat
+
+
+# Excel data to JSON script
+*.py
+
+
+# others
+__pycache__/
+*.pyc
+
 
 # Excel temporary files
 ~$*
