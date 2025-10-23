@@ -1,0 +1,6 @@
+.xlsx
+.bat
+.py
+
+# Excel temporary files
+~$*
