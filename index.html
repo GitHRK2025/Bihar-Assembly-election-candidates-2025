@@ -140,19 +140,7 @@
   }
 </script>
 
-<!-- ✅ Visible Visitor Counter -->
-<div style="text-align:center; margin-top:20px;">
-  <p style="font-size:18px;">👁️ Visitors Count: <span id="visits"></span></p>
-</div>
 
-<script>
-  fetch('https://api.countapi.xyz/hit/githrk2025.github.io/Bihar-Assembly-election-candidates-2025/visits')
-    .then(res => res.json())
-    .then(res => {
-      document.getElementById('visits').innerText = res.value;
-    })
-    .catch(err => console.error('Visit counter failed:', err));
-</script>
 
 </body>
 </html>
