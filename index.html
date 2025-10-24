@@ -38,6 +38,7 @@
         <option value="aap">AAP</option>
         <option value="jdu">JDU</option>
         <option value="ljp">LOJPA</option>
+		<option value="cpi(ml)">CPI(ML)</option>
         <option value="rjd">RJD</option>
         <option value="jsp">Jan Suraj Party</option>
       </select>
@@ -59,7 +60,7 @@
   const result = document.getElementById('result');
 
   const allData = {};
-  const parties = ['bjp', 'congress', 'aap', 'jdu', 'ljp', 'rjd', 'jsp'];
+  const parties = ['bjp', 'congress', 'aap', 'jdu', 'ljp', 'cpi(ml)', 'rjd', 'jsp'];
 
   Promise.all(parties.map(p =>
     fetch(`data/${p}.json`)

@@ -17,3 +17,5 @@ __pycache__/
 
 # Excel temporary files
 ~$*
+
+config.js
