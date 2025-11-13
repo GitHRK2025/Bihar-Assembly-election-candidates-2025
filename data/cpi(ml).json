@@ -2,101 +2,121 @@
   {
     "sr_no": 1,
     "name": " Dhananjay (SC)",
-    "constituency": "Bhorey "
+    "constituency": "Bhorey ",
+    "votes": null
   },
   {
     "sr_no": 2,
     "name": " Amarjeet Kushwaha",
-    "constituency": "Jiradei"
+    "constituency": "Jiradei",
+    "votes": null
   },
   {
     "sr_no": 3,
     "name": " Satyadeo Ram (SC)",
-    "constituency": "Darauli"
+    "constituency": "Darauli",
+    "votes": null
   },
   {
     "sr_no": 4,
     "name": " Amarnath Yadav",
-    "constituency": "Daraunda "
+    "constituency": "Daraunda ",
+    "votes": null
   },
   {
     "sr_no": 5,
     "name": " Ranjeet Kumar Ram (SC)",
-    "constituency": "Kalyanpur"
+    "constituency": "Kalyanpur (Samstipur)",
+    "votes": null
   },
   {
     "sr_no": 6,
     "name": " Phoolbabu Singh",
-    "constituency": "Warisnagar "
+    "constituency": "Warisnagar ",
+    "votes": null
   },
   {
     "sr_no": 7,
     "name": " Bishwanath Chaudhary (SC)",
-    "constituency": "Rajgir"
+    "constituency": "Rajgir",
+    "votes": null
   },
   {
     "sr_no": 8,
     "name": " Divya Gautam",
-    "constituency": "Digha "
+    "constituency": "Digha ",
+    "votes": null
   },
   {
     "sr_no": 9,
     "name": " Gopal Ravi Das (SC)",
-    "constituency": "Phulwari"
+    "constituency": "Phulwari",
+    "votes": null
   },
   {
     "sr_no": 10,
     "name": " Sandeep Saurav",
-    "constituency": "Paliganj "
+    "constituency": "Paliganj ",
+    "votes": null
   },
   {
     "sr_no": 11,
     "name": " Quyamuddin Ansari",
-    "constituency": "Arrah "
+    "constituency": "Arrah ",
+    "votes": null
   },
   {
     "sr_no": 12,
     "name": " Shiv Prakash Ranjan (SC)",
-    "constituency": "Agiaon"
+    "constituency": "Agiaon",
+    "votes": null
   },
   {
     "sr_no": 13,
     "name": " Madan Singh",
-    "constituency": "Tarari "
+    "constituency": "Tarari ",
+    "votes": null
   },
   {
     "sr_no": 14,
     "name": " Ajit Kumar Singh",
-    "constituency": "Dumraon "
+    "constituency": "Dumraon ",
+    "votes": null
   },
   {
     "sr_no": 15,
     "name": " Birendra Prasad Gupta",
-    "constituency": "Sikta "
+    "constituency": "Sikta ",
+    "votes": null
   },
   {
     "sr_no": 16,
     "name": " Anil Kumar",
-    "constituency": "Pipra"
+    "constituency": "Pipra (SUPAUL)",
+    "votes": null
   },
   {
     "sr_no": 17,
     "name": " Mahboob Alam",
-    "constituency": "Balrampur "
+    "constituency": "Balrampur ",
+    "votes": null
   },
   {
     "sr_no": 18,
     "name": " Arun Singh",
-    "constituency": "Karakat "
+    "constituency": "Karakat ",
+    "votes": null
   },
   {
     "sr_no": 19,
     "name": " Mahanand Singh",
-    "constituency": "Arwal "
+    "constituency": "Arwal ",
+    "votes": null
   },
   {
     "sr_no": 20,
     "name": " Ram Bali Singh Yadav",
-    "constituency": "Ghosi "
+    "constituency": "Ghosi ",
+    "votes": null
   }
 ]

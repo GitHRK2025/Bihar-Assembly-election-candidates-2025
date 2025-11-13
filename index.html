@@ -34,12 +34,14 @@
       <select id="partyDropdown">
         <option value="">-- Select a Party --</option>
         <option value="bjp">BJP</option>
-        <option value="congress">Congress</option>
+        <option value="inc">INC</option>
         <option value="aap">AAP</option>
         <option value="jdu">JDU</option>
         <option value="ljp">LOJPA</option>
 		<option value="cpi(ml)">CPI(ML)</option>
         <option value="rjd">RJD</option>
+		<option value="ham(s)">HAM(S)</option>
+		<option value="cpi">CPI</option>
         <option value="jsp">Jan Suraj Party</option>
       </select>
     </div>
@@ -60,7 +62,7 @@
   const result = document.getElementById('result');
 
   const allData = {};
-  const parties = ['bjp', 'congress', 'aap', 'jdu', 'ljp', 'cpi(ml)', 'rjd', 'jsp'];
+  const parties = ['bjp', 'inc', 'aap', 'jdu', 'ljp', 'cpi(ml)', 'rjd', 'ham(s)', 'cpi', 'jsp'];
 
   Promise.all(parties.map(p =>
     fetch(`data/${p}.json`)

@@ -1,0 +1,38 @@
+[
+  {
+    "sr_no": 1,
+    "name": "Anil Kumar",
+    "constituency": "Tikari",
+    "votes": null
+  },
+  {
+    "sr_no": 2,
+    "name": "Deepa Manjhi (SC)",
+    "constituency": "Imamganj",
+    "votes": null
+  },
+  {
+    "sr_no": 3,
+    "name": "Jyoti Devi (SC)",
+    "constituency": "Barachatti",
+    "votes": null
+  },
+  {
+    "sr_no": 4,
+    "name": "Prafull Manjhi",
+    "constituency": "Sikandra",
+    "votes": null
+  },
+  {
+    "sr_no": 5,
+    "name": "Lalan Ram",
+    "constituency": "Kutumba",
+    "votes": null
+  },
+  {
+    "sr_no": 6,
+    "name": "Romit Kumar",
+    "constituency": "Atri",
+    "votes": null
+  }
+]
