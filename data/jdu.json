@@ -1,608 +1,597 @@
 [
   {
     "sr_no": 1,
-    "name": "Narendra Narayan Yadav",
-    "constituency": "Alamnagar",
-    "votes": null
+    "name": "SAMMRIDH VARMA",
+    "constituency": "SIKTA(9)",
+    "votes": 97173,
+    "margin": 47144
   },
   {
     "sr_no": 2,
-    "name": "Niranjan Kumar Mehta",
-    "constituency": "Biharganj",
-    "votes": null
+    "name": "VISHAL KUMAR",
+    "constituency": "NARKATIA(12)",
+    "votes": 104450,
+    "margin": 1443
   },
   {
     "sr_no": 3,
-    "name": "Ramesh Rishidev (SC)",
-    "constituency": "Singheshwar ",
-    "votes": null
+    "name": "SHALINI MISHRA",
+    "constituency": "KESARIA(15)",
+    "votes": 78192,
+    "margin": 16340
   },
   {
     "sr_no": 4,
-    "name": "Kavita Saha",
-    "constituency": "Madhepura",
-    "votes": null
+    "name": "SHWETA GUPTA",
+    "constituency": "SHEOHAR(22)",
+    "votes": 97269,
+    "margin": 31398
   },
   {
     "sr_no": 5,
-    "name": "Ratnesh Sada (SC)",
-    "constituency": "Sonbarsha ",
-    "votes": null
+    "name": "PROF. NAGENDRA RAUT",
+    "constituency": "SURSAND(26)",
+    "votes": 104157,
+    "margin": 23667
   },
   {
     "sr_no": 6,
-    "name": "Gunjeshwar Sah",
-    "constituency": "Mahishi",
-    "votes": null
+    "name": "PANKAJ KUMAR",
+    "constituency": "RUNNISAIDPUR(29)",
+    "votes": 93672,
+    "margin": 19737
   },
   {
     "sr_no": 7,
-    "name": "Atirek Kumar (SC)",
-    "constituency": "Kusheshwar Asthan ",
-    "votes": null
+    "name": "SUDHANSHU SHEKHAR",
+    "constituency": "HARLAKHI(31)",
+    "votes": 85486,
+    "margin": 36236
   },
   {
     "sr_no": 8,
-    "name": "Vinay Kumar Choudhary",
-    "constituency": "Benipur",
-    "votes": null
+    "name": "MINA KUMARI",
+    "constituency": "BABUBARHI(34)",
+    "votes": 98221,
+    "margin": 17568
   },
   {
     "sr_no": 9,
-    "name": "Ishwar Mandal",
-    "constituency": "Darbhanga Rural",
-    "votes": null
+    "name": "SHEELA KUMARI",
+    "constituency": "PHULPARAS(39)",
+    "votes": 93677,
+    "margin": 14099
   },
   {
     "sr_no": 10,
-    "name": "Madan Sahni",
-    "constituency": "Bahadurpur",
-    "votes": null
+    "name": "SATISH KUMAR SAH",
+    "constituency": "LAUKAHA(40)",
+    "votes": 111761,
+    "margin": 25511
   },
   {
     "sr_no": 11,
-    "name": "Komal Singh",
-    "constituency": "Gaighat",
-    "votes": null
+    "name": "ANIRUDDHA PRASAD YADAV",
+    "constituency": "NIRMALI(41)",
+    "votes": 118904,
+    "margin": 37310
   },
   {
     "sr_no": 12,
-    "name": "Ajay Kushwaha",
-    "constituency": "Minapur",
-    "votes": null
+    "name": "RAMBILASH KAMAT",
+    "constituency": "PIPRA(42)",
+    "votes": 107041,
+    "margin": 37776
   },
   {
     "sr_no": 13,
-    "name": "Aditya Kumar (SC)",
-    "constituency": "Sakra ",
-    "votes": null
+    "name": "BIJENDRA PRASAD YADAV",
+    "constituency": "SUPAUL(43)",
+    "votes": 109085,
+    "margin": 30803
   },
   {
     "sr_no": 14,
-    "name": "Ajit Kumar",
-    "constituency": "Kanti",
-    "votes": null
+    "name": "SONAM RANI",
+    "constituency": "TRIVENIGANJ(44)",
+    "votes": 105262,
+    "margin": 5683
   },
   {
     "sr_no": 15,
-    "name": "Shri Amrendra Kumar Pandya",
-    "constituency": "Kuchaikote",
-    "votes": null
+    "name": "GOPAL KUMAR AGARWAL",
+    "constituency": "THAKURGANJ(53)",
+    "votes": 85243,
+    "margin": 8822
   },
   {
     "sr_no": 16,
-    "name": "Sunil Kumar (SC)",
-    "constituency": "Bhorey ",
-    "votes": null
+    "name": "KALADHAR PRASAD MANDAL",
+    "constituency": "RUPAULI(60)",
+    "votes": 124826,
+    "margin": 73572
   },
   {
     "sr_no": 17,
-    "name": "Ramsevak Singh",
-    "constituency": "Hathua",
-    "votes": null
+    "name": "LESHI SINGH",
+    "constituency": "DHAMDAHA(61)",
+    "votes": 138750,
+    "margin": 55159
   },
   {
     "sr_no": 18,
-    "name": "Manjit Singh",
-    "constituency": "Barauli",
-    "votes": null
+    "name": "DULAL CHANDRA GOSWAMI",
+    "constituency": "KADWA(64)",
+    "votes": 99274,
+    "margin": 18368
   },
   {
     "sr_no": 19,
-    "name": "Bhisham Kushwaha",
-    "constituency": "Jiradei",
-    "votes": null
+    "name": "BIJAY SINGH",
+    "constituency": "BARARI(68)",
+    "votes": 107842,
+    "margin": 10984
   },
   {
     "sr_no": 20,
-    "name": "Vikas Kumar Singh alias Jishu Singh",
-    "constituency": "Raghunathpur",
-    "votes": null
+    "name": "NARENDRA NARAYAN YADAV",
+    "constituency": "ALAMNAGAR(70)",
+    "votes": 138401,
+    "margin": 55465
   },
   {
     "sr_no": 21,
-    "name": "Indradev Patel",
-    "constituency": "Barharia",
-    "votes": null
+    "name": "NIRANJAN KUMAR MEHTA",
+    "constituency": "BIHARIGANJ(71)",
+    "votes": 116622,
+    "margin": 31622
   },
   {
     "sr_no": 22,
-    "name": "Hem Narayan Sah",
-    "constituency": "Maharajganj",
-    "votes": null
+    "name": "RAMESH RISHI",
+    "constituency": "SINGHESHWAR(72)",
+    "votes": 106416,
+    "margin": 2982
   },
   {
     "sr_no": 23,
-    "name": "Dhumal Singh",
-    "constituency": "Ekma",
-    "votes": null
+    "name": "RATNESH SADA",
+    "constituency": "SONBARSHA(74)",
+    "votes": 97833,
+    "margin": 13454
   },
   {
     "sr_no": 24,
-    "name": "Randhir Singh",
-    "constituency": "Manjhi",
-    "votes": null
+    "name": "ATIREK KUMAR",
+    "constituency": "KUSHESHWAR ASTHAN(78)",
+    "votes": 85685,
+    "margin": 36441
   },
   {
     "sr_no": 25,
-    "name": "Chhote Lal Ray",
-    "constituency": "Parsa",
-    "votes": null
+    "name": "BINAY KUMAR CHOUDHARY",
+    "constituency": "BENIPUR(80)",
+    "votes": 84207,
+    "margin": 13603
   },
   {
     "sr_no": 26,
-    "name": "Siddharth Patel",
-    "constituency": "Vaishali",
-    "votes": null
+    "name": "RAJESH KUMAR MANDAL",
+    "constituency": "DARBHANGA RURAL(82)",
+    "votes": 80624,
+    "margin": 18392
   },
   {
     "sr_no": 27,
-    "name": "Mahendra Ram (SC)",
-    "constituency": "Raja Pakar",
-    "votes": null
+    "name": "MADAN SAHNI",
+    "constituency": "BAHADURPUR(85)",
+    "votes": 96300,
+    "margin": 12011
   },
   {
     "sr_no": 28,
-    "name": "Umesh Singh Kushwaha",
-    "constituency": "Mahnar",
-    "votes": null
+    "name": "KOMAL SINGH",
+    "constituency": "GAIGHAT(88)",
+    "votes": 108104,
+    "margin": 23417
   },
   {
     "sr_no": 29,
-    "name": "Maheshwar Hajari (SC)",
-    "constituency": "Kalyanpur (Samstipur)",
-    "votes": null
+    "name": "AJAY KUMAR",
+    "constituency": "MINAPUR(90)",
+    "votes": 113411,
+    "margin": 34238
   },
   {
     "sr_no": 30,
-    "name": "Manjrik Mrinal",
-    "constituency": "Warisnagar",
-    "votes": null
+    "name": "ADITYA KUMAR",
+    "constituency": "SAKRA(92)",
+    "votes": 98723,
+    "margin": 15050
   },
   {
     "sr_no": 31,
-    "name": "Ashwamedh Devi",
-    "constituency": "Samastipur",
-    "votes": null
+    "name": "AJIT KUMAR",
+    "constituency": "KANTI(95)",
+    "votes": 117299,
+    "margin": 25795
   },
   {
     "sr_no": 32,
-    "name": "Vidyasagar Singh Nishad",
-    "constituency": "Morwa",
-    "votes": null
+    "name": "MANJEET KUMAR SINGH",
+    "constituency": "BARAULI(100)",
+    "votes": 88657,
+    "margin": 12374
   },
   {
     "sr_no": 33,
-    "name": "Vijay Kumar Choudhary",
-    "constituency": "Sarairanjan",
-    "votes": null
+    "name": "AMRENDRA KUMAR PANDEY",
+    "constituency": "KUCHAIKOTE(102)",
+    "votes": 101425,
+    "margin": 24491
   },
   {
     "sr_no": 34,
-    "name": "Raveena Kushwaha",
-    "constituency": "Bibhutipur",
-    "votes": null
+    "name": "SUNIL KUMAR",
+    "constituency": "BHOREY(103)",
+    "votes": 101469,
+    "margin": 16163
   },
   {
     "sr_no": 35,
-    "name": "Raj Kumar Ray",
-    "constituency": "Hasanpur",
-    "votes": null
+    "name": "RAMSEWAK SINGH",
+    "constituency": "HATHUA(104)",
+    "votes": 92121,
+    "margin": 12348
   },
   {
     "sr_no": 36,
-    "name": "Abhishek Kumar",
-    "constituency": "Cheria Bariyarpur",
-    "votes": null
+    "name": "BHISM PRATAP SINGH",
+    "constituency": "ZIRADEI(106)",
+    "votes": 66227,
+    "margin": 2626
   },
   {
     "sr_no": 37,
-    "name": "Rajkumar Singh",
-    "constituency": "Matihani",
-    "votes": null
+    "name": "INDRADEV SINGH",
+    "constituency": "BARHARIA(110)",
+    "votes": 93600,
+    "margin": 12136
   },
   {
     "sr_no": 38,
-    "name": "Ramchandra Sada (SC)",
-    "constituency": "Alauli ",
-    "votes": null
+    "name": "HEM NARAYAN SAH",
+    "constituency": "MAHARAJGANJ(112)",
+    "votes": 86813,
+    "margin": 21099
   },
   {
     "sr_no": 39,
-    "name": "Bablu Mandal",
-    "constituency": "Khagaria",
-    "votes": null
+    "name": "MANORANJAN SINGH",
+    "constituency": "EKMA(113)",
+    "votes": 84077,
+    "margin": 22708
   },
   {
     "sr_no": 40,
-    "name": "Panna Lal Patel",
-    "constituency": "Beldaur",
-    "votes": null
+    "name": "RANDHIR KUMAR SINGH",
+    "constituency": "MANJHI(114)",
+    "votes": 68455,
+    "margin": 9787
   },
   {
     "sr_no": 41,
-    "name": "Nachiketa Mandal",
-    "constituency": "Jamalpur",
-    "votes": null
+    "name": "SIDDHARTH PATEL",
+    "constituency": "VAISHALI(125)",
+    "votes": 108377,
+    "margin": 32590
   },
   {
     "sr_no": 42,
-    "name": "Ramanand Mandal",
-    "constituency": "Suryagarha",
-    "votes": null
+    "name": "MAHENDRA RAM",
+    "constituency": "RAJA PAKAR(127)",
+    "votes": 96258,
+    "margin": 48189
   },
   {
     "sr_no": 43,
-    "name": "Randhir Kumar Soni",
-    "constituency": "Sheikhpura",
-    "votes": null
+    "name": "UMESH SINGH KUSHWAHA",
+    "constituency": "MAHNAR(129)",
+    "votes": 98050,
+    "margin": 38558
   },
   {
     "sr_no": 44,
-    "name": "Kumar Pushpanjay",
-    "constituency": "Barbigha",
-    "votes": null
+    "name": "MAHESHWAR HAZARI",
+    "constituency": "KALYANPUR(131)",
+    "votes": 118162,
+    "margin": 38586
   },
   {
     "sr_no": 45,
-    "name": "Jitendra Kumar",
-    "constituency": "Asthawan",
-    "votes": null
+    "name": "MANJARIK MRINAL",
+    "constituency": "WARISNAGAR(132)",
+    "votes": 108968,
+    "margin": 34436
   },
   {
     "sr_no": 46,
-    "name": "Kaushal Kishore (SC)",
-    "constituency": "Rajgir ",
-    "votes": null
+    "name": "ASHWAMEDH DEVI",
+    "constituency": "SAMASTIPUR(133)",
+    "votes": 95728,
+    "margin": 13875
   },
   {
     "sr_no": 47,
-    "name": "Ruhel Ranjan",
-    "constituency": "Islampur",
-    "votes": null
+    "name": "VIJAY KUMAR CHOUDHARY",
+    "constituency": "SARAIRANJAN(136)",
+    "votes": 102792,
+    "margin": 20798
   },
   {
     "sr_no": 48,
-    "name": "Krishna Murari Sharan (Prem Mukhiya)",
-    "constituency": "Hilsa",
-    "votes": null
+    "name": "RAJ KUMAR RAY",
+    "constituency": "HASANPUR(140)",
+    "votes": 90961,
+    "margin": 7914
   },
   {
     "sr_no": 49,
-    "name": "Shrawon Kumar",
-    "constituency": "Nalanda",
-    "votes": null
+    "name": "ABHISHEK ANAND",
+    "constituency": "CHERIA - BARIARPUR(141)",
+    "votes": 75081,
+    "margin": 4119
   },
   {
     "sr_no": 50,
-    "name": "Harinarayan Singh",
-    "constituency": "Harnaut",
-    "votes": null
+    "name": "RAM CHANDRA SADA",
+    "constituency": "ALAULI(148)",
+    "votes": 93208,
+    "margin": 35732
   },
   {
     "sr_no": 51,
-    "name": "Anant Singh",
-    "constituency": "Mokama",
-    "votes": null
+    "name": "BABLU KUMAR",
+    "constituency": "KHAGARIA(149)",
+    "votes": 93988,
+    "margin": 23415
   },
   {
     "sr_no": 52,
-    "name": "Shyam Rajak (SC)",
-    "constituency": "Phulwari ",
-    "votes": null
+    "name": "PANNA LAL SINGH PATEL",
+    "constituency": "BELDAUR(150)",
+    "votes": 106262,
+    "margin": 35175
   },
   {
     "sr_no": 53,
-    "name": "Arun Manjhi (SC)",
-    "constituency": "Masaurhi ",
-    "votes": null
+    "name": "SHAILESH KUMAR ALIAS BULO MANDAL",
+    "constituency": "GOPALPUR(153)",
+    "votes": 108630,
+    "margin": 58135
   },
   {
     "sr_no": 54,
-    "name": "Radha Charan Sah",
-    "constituency": "Sandesh",
-    "votes": null
+    "name": "SHUBHANAND MUKESH",
+    "constituency": "KAHALGAON(155)",
+    "votes": 130767,
+    "margin": 50112
   },
   {
     "sr_no": 55,
-    "name": "Bhagwan Singh Kushwaha",
-    "constituency": "Jagdishpur",
-    "votes": null
+    "name": "LALIT NARAYAN MANDAL",
+    "constituency": "SULTANGANJ(157)",
+    "votes": 108712,
+    "margin": 31136
   },
   {
     "sr_no": 56,
-    "name": "Rahul Singh",
-    "constituency": "Dumraon",
-    "votes": null
+    "name": "JAYANT RAJ",
+    "constituency": "AMARPUR(159)",
+    "votes": 103944,
+    "margin": 33221
   },
   {
     "sr_no": 57,
-    "name": "Santosh Kumar Nirala (SC)",
-    "constituency": "Rajpur ",
-    "votes": null
+    "name": "MANISH KUMAR",
+    "constituency": "DHORAIYA(160)",
+    "votes": 113011,
+    "margin": 22426
   },
   {
     "sr_no": 58,
-    "name": "Dhirendra Pratap Singh (Rinku Singh)",
-    "constituency": "Valmiki Nagar",
-    "votes": null
+    "name": "MANOJ YADAV",
+    "constituency": "BELHAR(163)",
+    "votes": 115393,
+    "margin": 37206
   },
   {
     "sr_no": 59,
-    "name": "Samrudh Verma",
-    "constituency": "Sikta",
-    "votes": null
+    "name": "NACHIKETA",
+    "constituency": "JAMALPUR(166)",
+    "votes": 96683,
+    "margin": 36228
   },
   {
     "sr_no": 60,
-    "name": "Vishal Sah",
-    "constituency": "Narkatiya",
-    "votes": null
+    "name": "RAMANAND MANDAL",
+    "constituency": "SURYAGARHA(167)",
+    "votes": 101968,
+    "margin": 23861
   },
   {
     "sr_no": 61,
-    "name": "Shalini Mishra",
-    "constituency": "Kesaria",
-    "votes": null
+    "name": "RANDHIR KUMAR SONI",
+    "constituency": "SHEIKHPURA(169)",
+    "votes": 82922,
+    "margin": 22547
   },
   {
     "sr_no": 62,
-    "name": "Shweta Gupta",
-    "constituency": "Sheohar",
-    "votes": null
+    "name": "DR. KUMAR PUSPANJAY",
+    "constituency": "BARBIGHA(170)",
+    "votes": 61882,
+    "margin": 25493
   },
   {
     "sr_no": 63,
-    "name": "Nagendra Raut",
-    "constituency": "Sursand",
-    "votes": null
+    "name": "JITENDRA KUMAR",
+    "constituency": "ASTHAWAN(171)",
+    "votes": 90542,
+    "margin": 40708
   },
   {
     "sr_no": 64,
-    "name": "Pankaj Mishra",
-    "constituency": "Runnisaidpur",
-    "votes": null
+    "name": "KAUSHAL KISHORE",
+    "constituency": "RAJGIR(173)",
+    "votes": 107811,
+    "margin": 55428
   },
   {
     "sr_no": 65,
-    "name": "Sudhanshu Shekhar",
-    "constituency": "Harlakhi",
-    "votes": null
+    "name": "RUHAIL RANJAN",
+    "constituency": "ISLAMPUR(174)",
+    "votes": 100487,
+    "margin": 32239
   },
   {
     "sr_no": 66,
-    "name": "Meena Kamat",
-    "constituency": "Babubarhi",
-    "votes": null
+    "name": "KRISHNA MURARI SHARAN",
+    "constituency": "HILSA(175)",
+    "votes": 96009,
+    "margin": 16012
   },
   {
     "sr_no": 67,
-    "name": "Shaila Mandal",
-    "constituency": "Phulparas",
-    "votes": null
+    "name": "SHRAWON KUMAR",
+    "constituency": "NALANDA(176)",
+    "votes": 105432,
+    "margin": 33008
   },
   {
     "sr_no": 68,
-    "name": "Satish Saha",
-    "constituency": "Laukaha",
-    "votes": null
+    "name": "HARI NARAYAN SINGH",
+    "constituency": "HARNAUT(177)",
+    "votes": 106954,
+    "margin": 48335
   },
   {
     "sr_no": 69,
-    "name": "Aniruddha Prasad Yadav",
-    "constituency": "Nirmali",
-    "votes": null
+    "name": "ANANT KUMAR SINGH",
+    "constituency": "MOKAMA(178)",
+    "votes": 91416,
+    "margin": 28206
   },
   {
     "sr_no": 70,
-    "name": "Ram Vilas Kamat",
-    "constituency": "Pipra (SUPAUL)",
-    "votes": null
+    "name": "SHYAM RAJAK",
+    "constituency": "PHULWARI(188)",
+    "votes": 126470,
+    "margin": 32657
   },
   {
     "sr_no": 71,
-    "name": "Vijendra Prasad Yadav",
-    "constituency": "Supaul",
-    "votes": null
+    "name": "ARUN MANJHI",
+    "constituency": "MASAURHI(189)",
+    "votes": 106505,
+    "margin": 7643
   },
   {
     "sr_no": 72,
-    "name": "Sonam Rani (SC)",
-    "constituency": "Tribeniganj ",
-    "votes": null
+    "name": "RADHA CHARAN SAH",
+    "constituency": "SANDESH(192)",
+    "votes": 80598,
+    "margin": 27
   },
   {
     "sr_no": 73,
-    "name": "Adhishtit Rishidev (SC)",
-    "constituency": "Raniganj ",
-    "votes": null
+    "name": "SRIBHAGWAN SINGH KUSHWAHA",
+    "constituency": "JAGDISHPUR(197)",
+    "votes": 92974,
+    "margin": 18193
   },
   {
     "sr_no": 74,
-    "name": "Shabnum Akhter",
-    "constituency": "Araria",
-    "votes": null
+    "name": "RAHUL KUMAR SINGH",
+    "constituency": "DUMRAON(201)",
+    "votes": 79411,
+    "margin": 2105
   },
   {
     "sr_no": 75,
-    "name": "Janab Manzar Alam",
-    "constituency": "Jokihat",
-    "votes": null
+    "name": "SANTOSH KUMAR NIRALA",
+    "constituency": "RAJPUR(202)",
+    "votes": 80701,
+    "margin": 9136
   },
   {
     "sr_no": 76,
-    "name": "Gopal Agrawal",
-    "constituency": "Thakurganj",
-    "votes": null
+    "name": "MD. ZAMA KHAN",
+    "constituency": "CHAINPUR(206)",
+    "votes": 70876,
+    "margin": 8362
   },
   {
     "sr_no": 77,
-    "name": "Saba Zafar",
-    "constituency": "Amour",
-    "votes": null
+    "name": "BASHISTH SINGH",
+    "constituency": "KARGAHAR(209)",
+    "votes": 92485,
+    "margin": 35676
   },
   {
     "sr_no": 78,
-    "name": "Kaladhar Mandal",
-    "constituency": "Rupauli",
-    "votes": null
+    "name": "NAGENDRA CHANDRAVANSHI",
+    "constituency": "NOKHA(211)",
+    "votes": 93193,
+    "margin": 24054
   },
   {
     "sr_no": 79,
-    "name": "Leshi Singh",
-    "constituency": "Dhamdaha",
-    "votes": null
+    "name": "PAPPU KUMAR VERMA",
+    "constituency": "KURTHA(215)",
+    "votes": 74466,
+    "margin": 5481
   },
   {
     "sr_no": 80,
-    "name": "Dulalachand Goswami",
-    "constituency": "Korha ",
-    "votes": null
+    "name": "RITURAJ KUMAR",
+    "constituency": "GHOSI(217)",
+    "votes": 80740,
+    "margin": 11929
   },
   {
     "sr_no": 81,
-    "name": "Shambhu Suman (ST)",
-    "constituency": "Manihari ",
-    "votes": null
+    "name": "CHETAN ANAND",
+    "constituency": "NABINAGAR(221)",
+    "votes": 80380,
+    "margin": 112
   },
   {
     "sr_no": 82,
-    "name": "Vijay Singh Nishad",
-    "constituency": "Barari",
-    "votes": null
+    "name": "PRAMOD KUMAR SINGH",
+    "constituency": "RAFIGANJ(224)",
+    "votes": 107515,
+    "margin": 11956
   },
   {
     "sr_no": 83,
-    "name": "Bullo Mandal",
-    "constituency": "Gopalpur",
-    "votes": null
+    "name": "MANORMA DEVI",
+    "constituency": "BELAGANJ(232)",
+    "votes": 95685,
+    "margin": 2882
   },
   {
     "sr_no": 84,
-    "name": "Dr Lalit Narayan Mandal",
-    "constituency": "Sultanganj",
-    "votes": null
+    "name": "VIBHA DEVI",
+    "constituency": "NAWADA(237)",
+    "votes": 87423,
+    "margin": 27594
   },
   {
     "sr_no": 85,
-    "name": "Shivanand Mukesh",
-    "constituency": "Kahalgaon",
-    "votes": null
-  },
-  {
-    "sr_no": 86,
-    "name": "Jayant Raj",
-    "constituency": "Amarpur",
-    "votes": null
-  },
-  {
-    "sr_no": 87,
-    "name": "Manish Kumar (ST)",
-    "constituency": "Dhoraiya",
-    "votes": null
-  },
-  {
-    "sr_no": 88,
-    "name": "Manoj Yadav",
-    "constituency": "Belhar",
-    "votes": null
-  },
-  {
-    "sr_no": 89,
-    "name": "Mohd. Zama Khan",
-    "constituency": "Chainpur",
-    "votes": null
-  },
-  {
-    "sr_no": 90,
-    "name": "Bashisth Singh",
-    "constituency": "Kargahar",
-    "votes": null
-  },
-  {
-    "sr_no": 91,
-    "name": "Mahabali Singh",
-    "constituency": "Karakat",
-    "votes": null
-  },
-  {
-    "sr_no": 92,
-    "name": "Nagendra Chandravanshi",
-    "constituency": "Nokha",
-    "votes": null
-  },
-  {
-    "sr_no": 93,
-    "name": "Pappu Kumar Verma",
-    "constituency": "Kurtha",
-    "votes": null
-  },
-  {
-    "sr_no": 94,
-    "name": "Chandeshwar Chandravanshi",
-    "constituency": "Jehanabad",
-    "votes": null
-  },
-  {
-    "sr_no": 95,
-    "name": "Rituraj Kumar",
-    "constituency": "Ghosi",
-    "votes": null
-  },
-  {
-    "sr_no": 96,
-    "name": "Chetan Anand Singh",
-    "constituency": "Nabinagar",
-    "votes": null
-  },
-  {
-    "sr_no": 97,
-    "name": "Pramod Kumar Singh",
-    "constituency": "Rafiganj",
-    "votes": null
-  },
-  {
-    "sr_no": 98,
-    "name": "Manorama Devi",
-    "constituency": "Belaganj",
-    "votes": null
-  },
-  {
-    "sr_no": 99,
-    "name": "Vibha Devi",
-    "constituency": "Nawada",
-    "votes": null
-  },
-  {
-    "sr_no": 100,
-    "name": "Damodar Rawat",
-    "constituency": "Jhajha",
-    "votes": null
-  },
-  {
-    "sr_no": 101,
-    "name": "Sumit Kumar Singh",
-    "constituency": "Chakai",
-    "votes": null
+    "name": "DAMODAR RAWAT",
+    "constituency": "JHAJHA(242)",
+    "votes": 108317,
+    "margin": 4262
   }
 ]

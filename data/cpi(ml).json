@@ -1,122 +1,16 @@
 [
   {
     "sr_no": 1,
-    "name": " Dhananjay (SC)",
-    "constituency": "Bhorey ",
-    "votes": null
+    "name": "SANDEEP SAURAV",
+    "constituency": "PALIGANJ(190)",
+    "votes": 81105,
+    "margin": 6655
   },
   {
     "sr_no": 2,
-    "name": " Amarjeet Kushwaha",
-    "constituency": "Jiradei",
-    "votes": null
-  },
-  {
-    "sr_no": 3,
-    "name": " Satyadeo Ram (SC)",
-    "constituency": "Darauli",
-    "votes": null
-  },
-  {
-    "sr_no": 4,
-    "name": " Amarnath Yadav",
-    "constituency": "Daraunda ",
-    "votes": null
-  },
-  {
-    "sr_no": 5,
-    "name": " Ranjeet Kumar Ram (SC)",
-    "constituency": "Kalyanpur (Samstipur)",
-    "votes": null
-  },
-  {
-    "sr_no": 6,
-    "name": " Phoolbabu Singh",
-    "constituency": "Warisnagar ",
-    "votes": null
-  },
-  {
-    "sr_no": 7,
-    "name": " Bishwanath Chaudhary (SC)",
-    "constituency": "Rajgir",
-    "votes": null
-  },
-  {
-    "sr_no": 8,
-    "name": " Divya Gautam",
-    "constituency": "Digha ",
-    "votes": null
-  },
-  {
-    "sr_no": 9,
-    "name": " Gopal Ravi Das (SC)",
-    "constituency": "Phulwari",
-    "votes": null
-  },
-  {
-    "sr_no": 10,
-    "name": " Sandeep Saurav",
-    "constituency": "Paliganj ",
-    "votes": null
-  },
-  {
-    "sr_no": 11,
-    "name": " Quyamuddin Ansari",
-    "constituency": "Arrah ",
-    "votes": null
-  },
-  {
-    "sr_no": 12,
-    "name": " Shiv Prakash Ranjan (SC)",
-    "constituency": "Agiaon",
-    "votes": null
-  },
-  {
-    "sr_no": 13,
-    "name": " Madan Singh",
-    "constituency": "Tarari ",
-    "votes": null
-  },
-  {
-    "sr_no": 14,
-    "name": " Ajit Kumar Singh",
-    "constituency": "Dumraon ",
-    "votes": null
-  },
-  {
-    "sr_no": 15,
-    "name": " Birendra Prasad Gupta",
-    "constituency": "Sikta ",
-    "votes": null
-  },
-  {
-    "sr_no": 16,
-    "name": " Anil Kumar",
-    "constituency": "Pipra (SUPAUL)",
-    "votes": null
-  },
-  {
-    "sr_no": 17,
-    "name": " Mahboob Alam",
-    "constituency": "Balrampur ",
-    "votes": null
-  },
-  {
-    "sr_no": 18,
-    "name": " Arun Singh",
-    "constituency": "Karakat ",
-    "votes": null
-  },
-  {
-    "sr_no": 19,
-    "name": " Mahanand Singh",
-    "constituency": "Arwal ",
-    "votes": null
-  },
-  {
-    "sr_no": 20,
-    "name": " Ram Bali Singh Yadav",
-    "constituency": "Ghosi ",
-    "votes": null
+    "name": "ARUN SINGH (VILL-AJNAP TOLA)",
+    "constituency": "KARAKAT(213)",
+    "votes": 74157,
+    "margin": 2836
   }
 ]

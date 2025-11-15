@@ -1,0 +1,37 @@
+[
+  {
+    "sr_no": 1,
+    "name": "MOHAMMAD MURSHID ALAM",
+    "constituency": "JOKIHAT(50)",
+    "votes": 83737,
+    "margin": 28803
+  },
+  {
+    "sr_no": 2,
+    "name": "MD TAUSEEF ALAM",
+    "constituency": "BAHADURGANJ(52)",
+    "votes": 87315,
+    "margin": 28726
+  },
+  {
+    "sr_no": 3,
+    "name": "MD. SARWAR ALAM",
+    "constituency": "KOCHADHAMAN(55)",
+    "votes": 81860,
+    "margin": 23021
+  },
+  {
+    "sr_no": 4,
+    "name": "AKHTARUL IMAN",
+    "constituency": "AMOUR(56)",
+    "votes": 100836,
+    "margin": 38928
+  },
+  {
+    "sr_no": 5,
+    "name": "GHULAM SARWAR",
+    "constituency": "BAISI(57)",
+    "votes": 92766,
+    "margin": 27251
+  }
+]

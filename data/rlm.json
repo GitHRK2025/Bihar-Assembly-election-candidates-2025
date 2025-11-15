@@ -1,0 +1,30 @@
+[
+  {
+    "sr_no": 1,
+    "name": "RAMESHWAR KUMAR MEHTO",
+    "constituency": "BAJPATTI(27)",
+    "votes": 99144,
+    "margin": 3395
+  },
+  {
+    "sr_no": 2,
+    "name": "MADHAW ANAND",
+    "constituency": "MADHUBANI(36)",
+    "votes": 97956,
+    "margin": 20552
+  },
+  {
+    "sr_no": 3,
+    "name": "SNEHLATA",
+    "constituency": "SASARAM(208)",
+    "votes": 105006,
+    "margin": 25443
+  },
+  {
+    "sr_no": 4,
+    "name": "ALOK KUMAR SINGH",
+    "constituency": "DINARA(210)",
+    "votes": 78338,
+    "margin": 10834
+  }
+]
